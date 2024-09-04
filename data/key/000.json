@@ -1,0 +1,199 @@
+{
+    "soa reference no": "2017- 50916",
+    "hospital name": "DOMINGO CASANO HOSPITAL",
+    "hospital address": "431 Real Street, Brgy 15, Dolores, Eastern Samar, Philippines",
+    "phone number": "927-998-0932",
+    "name of patient": "IRASGA, AVELINO JUANPIT",
+    "date and time admitted": "11/9/2017 9:30 AM",
+    "patient address": "BRGY.1, CAN-AVID E. SAMAR",
+    "date and time discharged": "11/13/2017 9:32 AM",
+    "first case rate": "J18.92",
+    "diagnosises and icd 10 codes": "1. J18.92 Pneumonia, Moderate risk (C)",
+    "second case rate": "",
+    "surgical procedures and rvs codes if applicable": "",
+    "summary of fees": [
+      {
+        "particulars": "HCI fees",
+        "actual charges": "",
+        "vat exempt": "",
+        "amount of discounts": {
+          "senior citizen or pwd": "",
+          "place others": ""
+        },
+        "philhealth benefits": {
+          "first case rate amount": "",
+          "second case rate amount": ""
+        },
+        "out of pocket of patient": ""
+      },
+      {
+        "particulars": "Room and Board 4.00 Day(s) @700.00",
+        "actual charges": "2,800.00",
+        "vat exempt": "0.00",
+        "amount of discounts": {
+          "senior citizen or pwd": "0.00",
+          "place others": "1,600.00"
+        },
+        "philhealth benefits": {
+          "first case rate amount": "10,500.00",
+          "second case rate amount": "0.00"
+        },
+        "out of pocket of patient": "1,200.00"
+      },
+      {
+        "particulars": "Drugs and Medicines",
+        "actual charges": "15,762.00",
+        "vat exempt": "0.00",
+        "amount of discounts": {
+          "senior citizen or pwd": "0.00",
+          "place others": "7,212.00"
+        },
+        "philhealth benefits": {
+          "first case rate amount": "10,500.00",
+          "second case rate amount": "0.00"
+        },
+        "out of pocket of patient": "0.00"
+      },
+      {
+        "particulars": "Laboratory & Diagnostics",
+        "actual charges": "1,075.00",
+        "vat exempt": "0.00",
+        "amount of discounts": {
+          "senior citizen or pwd": "0.00",
+          "place others": "0.00"
+        },
+        "philhealth benefits": {
+          "first case rate amount": "10,500.00",
+          "second case rate amount": "0.00"
+        },
+        "out of pocket of patient": "0.00"
+      },
+      {
+        "particulars": "Operating Room fee",
+        "actual charges": "0.00",
+        "vat exempt": "0.00",
+        "amount of discounts": {
+          "senior citizen or pwd": "0.00",
+          "place others": "0.00"
+        },
+        "philhealth benefits": {
+          "first case rate amount": "10,500.00",
+          "second case rate amount": "0.00"
+        },
+        "out of pocket of patient": "0.00"
+      },
+      {
+        "particulars": "Supplies",
+        "actual charges": "875.00",
+        "vat exempt": "0.00",
+        "amount of discounts": {
+          "senior citizen or pwd": "0.00",
+          "place others": "0.00"
+        },
+        "philhealth benefits": {
+          "first case rate amount": "10,500.00",
+          "second case rate amount": "0.00"
+        },
+        "out of pocket of patient": "0.00"
+      },
+      {
+        "particulars": "Others: pls. specify",
+        "actual charges": "",
+        "vat exempt": "",
+        "amount of discounts": {
+          "senior citizen or pwd": "",
+          "place others": ""
+        },
+        "philhealth benefits": {
+          "first case rate amount": "",
+          "second case rate amount": ""
+        },
+        "out of pocket of patient": ""
+      },
+      {
+        "particulars": "Subtotal",
+        "actual charges": "20,512.00",
+        "vat exempt": "0.00",
+        "amount of discounts": {
+          "senior citizen or pwd": "0.00",
+          "place others": "8,812.00"
+        },
+        "philhealth benefits": {
+          "first case rate amount": "10,500.00",
+          "second case rate amount": "0.00"
+        },
+        "out of pocket of patient": "1,200.00"
+      },
+      {
+        "particulars": "Professional fees",
+        "actual charges": "",
+        "vat exempt": "",
+        "amount of discounts": {
+          "senior citizen or pwd": "",
+          "place others": ""
+        },
+        "philhealth benefits": {
+          "first case rate amount": "",
+          "second case rate amount": ""
+        },
+        "out of pocket of patient": ""
+      },
+      {
+        "particulars": "PAULO, LYCEL PALAMINE",
+        "actual charges": "4,500.00",
+        "vat exempt": "0.00",
+        "amount of discounts": {
+          "senior citizen or pwd": "0.00",
+          "place others": "0.00"
+        },
+        "philhealth benefits": {
+          "first case rate amount": "4,500.00",
+          "second case rate amount": "0.00"
+        },
+        "out of pocket of patient": "0.00"
+      },
+      {
+        "particulars": "Subtotal",
+        "actual charges": "4,500.00",
+        "vat exempt": "0.00",
+        "amount of discounts": {
+          "senior citizen or pwd": "0.00",
+          "place others": "0.00"
+        },
+        "philhealth benefits": {
+          "first case rate amount": "4,500.00",
+          "second case rate amount": "0.00"
+        },
+        "out of pocket of patient": "0.00"
+      },
+      {
+        "particulars": "Total",
+        "actual charges": "25,012.00",
+        "vat exempt": "0.00",
+        "amount of discounts": {
+          "senior citizen or pwd": "0.00",
+          "place others": "8,812.00"
+        },
+        "philhealth benefits": {
+          "first case rate amount": "15,000.00",
+          "second case rate amount": "0.00"
+        },
+        "out of pocket of patient": "1,200.00"
+      }
+    ],
+    "payments": {
+        "payments": "1,200.00",
+        "subtotal": "1,200.00",
+        "balance due": "0.00"
+      },
+    "prepared by": "EGRANES FAMELA QUIDANGEN",
+    "conforme": "bralno",
+    "date signed": "11 - 13 - 17",
+    "relationship to member of authorized representative": "PATIONT",
+    "contact no": "NONE",
+    "notes": [
+      "Fill out the form legibly.",
+      "The member or patient authorized representative should not sign a blank SOA.",
+      "Printed CODV of SOA or its equivalent should be free of charge."
+    ]
+}
